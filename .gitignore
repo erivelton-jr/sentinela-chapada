@@ -1,0 +1,7 @@
+.env
+notebooks/.ipynb_checkpoints/
+logs
+db
+.ipynb_checkpoints
+.idea
+data
